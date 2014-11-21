@@ -7,6 +7,12 @@ We Provide Free VPN Service. Pc, mobile phones and network appliances, no softwa
 
 ##Free VPN Service 免费 VPN 列表
 
+Ip: 124.128.57.149
+
+Account: vpn123
+
+Password: 538682
+
 --------------------------
 IP
 
