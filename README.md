@@ -32,3 +32,21 @@ pandavpn
 
 pandavpn
 
+------------------------------
+IP
+
+119.240.87.137
+
+189.209.170.243
+
+189-209-170-243.static.axtel.net
+
+121.114.249.220
+
+61.124.118.10
+
+nttkyo785010.tkyo.nt.ftth.ppp.infoweb.ne.jp
+
+账号 vpn
+
+密码 vpn
