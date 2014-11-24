@@ -49,6 +49,12 @@ IP
 
 nttkyo785010.tkyo.nt.ftth.ppp.infoweb.ne.jp
 
+115.176.18.212
+
+14.43.131.225
+
+106.0.176.61
+
 账号 vpn
 
 密码 vpn
