@@ -26,9 +26,11 @@ IP
 
 153.121.77.41
 
-账户密码 
+账户
 
-pandavpn
+kljhgiuqhia4
+
+密码 
 
 pandavpn
 
