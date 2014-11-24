@@ -9,9 +9,9 @@ We Provide Newest Free VPN Service. Pc, mobile phones and network appliances, no
 
 Ip: 124.128.57.149
 
-Account: vpn123
+账户: vpn123
 
-Password: 538682
+密码: 647665
 
 --------------------------
 IP
