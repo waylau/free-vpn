@@ -7,6 +7,18 @@ We Provide Newest Free VPN Service. Pc, mobile phones and network appliances, no
 
 ##Free VPN Service 免费 VPN 列表
 
+
+2015-3-21
+
+ip: vpn.freesstpvpn.net
+
+Username : freesstpvpn
+
+Password : 3169
+
+---------------------
+
+
 2015-2-14
 
 IP: 160.16.70.17 \ 160.16.60.82
@@ -21,7 +33,8 @@ Ip : 124.128.57.149
 Account : vpn123
 
 Password : 390735
-================================
+
+------------
 
 2014-11-25
 
