@@ -5,7 +5,24 @@ We Provide Newest Free VPN Service. Pc, mobile phones and network appliances, no
 
 提供最新的免费的 VPN 服务,通过使用 VPN 自由访问互联网(翻墙)！无论是PC端，移动端都无需安装客户端。只需在机子设置 VPN 访问即可。查看如何 设置 VPN <http://www.waylau.com/vpn-setting/>
 
-##Free VPN Service 免费 VPN 列表
+## Free VPN Service 免费 VPN 列表
+
+2017-3-18
+
+IP：104.238.181.117
+Type：PPTP / L2TP
+Username：vpn2136
+Password：vpntm
+L2TP Password：112233 (类型为L2TP时需填写)
+
+
+IP：45.63.93.27
+Type：PPTP / L2TP
+Username：vpn6711
+Password：vpntm
+L2TP Password：：112233 (类型为L2TP时需填写)
+
+---------------------
 
 2015-4-12
 
